@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vaibhavvemani
 - 👀 I’m interested in Artificial Inteligence, Robotics, and Cyber Security
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python, C, and Java
 - 📫 How to reach me: vaibhavvemani@gmail.com
 
 <!---
