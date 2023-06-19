@@ -1,5 +1,5 @@
-- 👋 Haii, I’m @vaibhavvemani.
-- 👀 I’m interested in anything and everything programming, video games, and F1.
+- 👋 Heya, I’m @vaibhavvemani.
+- 👀 I’m extremely passionate about anything and everything along the lines of programming, video games, and F1.
 - 🌱 I’m currently learning Machine learning and Web Development.
 - 📫 You can reach me at: vaibhavvemani@gmail.com
 
